@@ -1,0 +1,129 @@
+a:hover,
+a:focus,
+.slicknav_menu a:hover,
+.download-button a:hover,
+.feature-single .icon,
+.feature-single:hover h3,
+.key-feature-single i,
+.feature-box .box-icon,
+.feature-box:hover .box-title,
+.price-table:hover .price-title,
+.price-table:hover .price-content .price-rate .rate,
+.social-links > a:hover,
+.video-control:hover i,
+.footer-social ul li a:hover,
+footer .widget_nav_menu .menu li > a:hover,
+.work-btn a,
+.owl-testimonial .owl-nav .owl-prev,
+.owl-testimonial .owl-nav .owl-next,
+.newsletter-form .btn-subscribe,
+.newsletter-form .btn-subscribe:focus,
+.price-btn a,
+.btn-fill,
+.btn-search,
+.wp-block-button__link,
+.sidebar-list ul li a:hover,
+.post-categories a,
+.recent-post-categories a,
+.post-single ul li a,
+.more-link,
+.contact-box .icon,
+.pagination > .active > a,
+.pagination > .active > a:hover,
+.pagination > li > a:hover,
+.entry-body a,
+.post-tags a,
+.post-social a:hover,
+.post-nav a,
+.related-post-single ul li a,
+.author-info h3 a,
+.author-info h4,
+.about-author .description > span > a,
+.entry-header ul li a,
+#cancel-comment-reply-link,
+#error-page p > i,
+.btn-comment {
+	color:#16b6ea;
+}
+
+.sticky-header .nav .active a,
+.sticky-header .nav li:hover a,
+.btn-download.btn-fill:hover {
+	color:#16b6ea !important;
+}
+
+.nav ul,
+.sticky-header .nav .active a:after,
+.sticky-header .nav li:hover a:after,
+.spinner-loader > div,
+.banner,
+.banner:after,
+.section-title h2:before,
+.feature-box:hover .box-icon,
+.work-btn a:before,
+.member-info ul:after,
+.progress .progress-bar,
+.progress-heading .progress-value > span,
+.subscribe-form .btn-subscribe,
+.subscribe-form .btn-subscribe:focus,
+.wpcf7-submit,
+.complete-project-area,
+.screenshot-slider .owl-dots .active span,
+.screenshot-slider .owl-nav .owl-prev:hover,
+.screenshot-slider .owl-nav .owl-next:hover,
+.testimonials-newsletter,
+.price-title.featured,
+.price-btn a:before,
+.price-table .price-footer > a:hover,
+.btn-fill:before,
+.main-title:after,
+.btn-search:before,
+.wp-block-button__link:before,
+.author-social-follow a:hover,
+.tagcloud a:hover,
+.page-links a:hover,
+.post-nav a:before,
+.btn-comment:before,
+.btn-default.disabled:hover {
+	background:#16b6ea;
+}
+
+.feature-box .box-icon,
+.work-btn a,
+.download-link-form .form-control:focus,
+.screenshot-slider .owl-dots .owl-dot span,
+.screenshot-slider .owl-nav .owl-prev:hover,
+.screenshot-slider .owl-nav .owl-next:hover,
+.price-btn a,
+.btn-fill,
+.btn-search,
+.wp-block-button__link,
+.author-social-follow a:hover,
+.progress-heading .progress-value > span:before,
+.tag-cloud a:hover,
+.sidebar header h4,
+.pagination > li > a:hover,
+.pagination > .active > a,
+.pagination > .active > a:hover,
+.post-nav a,
+.btn-comment,
+.form-control:focus,
+.widget select:focus {
+	border-color:#16b6ea;
+}
+
+.form-control:focus + .btn-search,
+.btn-search:hover,
+.btn-search:focus {
+	border-color:#16b6ea !important;
+}
+
+.feature-single:before {
+	border-top:1px solid #16b6ea;
+	border-bottom:1px solid #16b6ea;
+}
+
+.feature-single:after {
+	border-left:1px solid #16b6ea;
+	border-right:1px solid #16b6ea;
+}
